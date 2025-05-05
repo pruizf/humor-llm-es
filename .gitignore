@@ -1,6 +1,8 @@
 .RData
 .Rhistory
 
+.desktop.ini
+
 .idea/
 .*#
 ~*
